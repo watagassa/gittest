@@ -9,6 +9,7 @@ function App() {
       <h1>gitのテスト用</h1>
       <h1 style = {{color: "red"}}>こんにちは！</h1>
             <ColoredMessage color = "blue">gitdekineeeeeee</ColoredMessage>
+            <ColoredMessage color = "blue">gniku</ColoredMessage>
             <ColoredMessage color = "pink"></ColoredMessage>
     </>
   )
