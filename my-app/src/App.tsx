@@ -12,6 +12,7 @@ function App() {
             <ColoredMessage color = "yellow">watasigakita!!!</ColoredMessage>
             <ColoredMessage color = "blue">gniku</ColoredMessage>
             <ColoredMessage color = "pink"></ColoredMessage>
+            <ColoredMessage color = "pink">akekasuga!!!</ColoredMessage>
     </>
   )
 }
